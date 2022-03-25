@@ -1,1 +1,1 @@
-this is a script for processing
+fixed paths! 
